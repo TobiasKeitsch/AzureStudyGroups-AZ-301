@@ -2,6 +2,8 @@
 
 Given how broad this chapter is you may want to review the massive [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/).
 
+*Consider completing this course on OpenEdx: [Designing for Deployment, Migration, and Integration](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-301.3+2019_T1/course/).*
+
 ## Design Deployments
 * Design a:
     * [Compute](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview)
